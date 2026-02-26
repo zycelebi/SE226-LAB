@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
-using namespace std;
 #include <cmath>
 
+using namespace std;
 
 int main() {
     string name;
